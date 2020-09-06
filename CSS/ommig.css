@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    background-image: url(/Images/portfolio.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.nav{
+
+   border-radius: 5%;
+}
+header :hover{
+
+    color: rgb(51, 6, 51);
+    background-color:white;
+}
+ul>li{
+
+    list-style: none;
+    text-align: left;
+    color:darkred;
+    padding: 1%;
+    margin-left: 50%;
+
+}
+.mig-content{
+
+    width: auto;
+    margin-top: 5%;
+    font-size: 1.5em;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-left: 5%;
+
+}
+.middle-container{
+
+    width: auto;
+    text-align: center;
+    padding-left: 5%;
+    
+    
+
+}
+.emoji{
+    padding-bottom: 4%;
+}
+h3{
+    margin-top: 2%;
+    text-align: center;
+    padding-left: 25%;
+    font-style: italic;
+    color: rgb(180, 213, 156);
+}
+
+
+footer{
+    background-color: rebeccapurple;
+    text-align: center;
+    color: white;
+    width:100%;
+    height: auto;
+    position:absolute;
+
+    
+  }
+  
+    
+

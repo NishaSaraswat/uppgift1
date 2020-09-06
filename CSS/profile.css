@@ -1,0 +1,24 @@
+body{
+    background-image: url(/Images/pro-back.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgb(0, 251, 255);
+}
+.main-content >img{
+
+    border-radius: 15%;
+    padding:2%;
+    margin-top: 5%;
+    padding-bottom: 0;
+}
+.main-content >p{
+    font-size: 1.5em;
+}
+
+
+.front{
+    color: rgb(84, 21, 84);
+}
+footer{
+    position: relative;
+}
